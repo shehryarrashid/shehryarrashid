@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🌱 I'm Shehryar
+I'm Shehryar
+
+Learning to develop cool things for the web 
 <!--
 **shehryarrashid/shehryarrashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
